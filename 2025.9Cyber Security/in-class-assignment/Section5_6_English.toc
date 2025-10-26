@@ -1,0 +1,48 @@
+\contentsline {section}{\numberline {1}Typical Attack Case Studies}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}WannaCry Ransomware Attack (2017)}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Attack Overview}{2}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Technical Analysis}{2}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Impact Scope}{2}{subsubsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}Economic Losses}{2}{subsubsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.2}NotPetya Attack (2017)}{3}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Attack Overview}{3}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Attack Characteristics}{3}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Major Impact Cases}{3}{subsubsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.3}Colonial Pipeline Attack (2021)}{3}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Attack Overview}{3}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Attack Process}{3}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Social Impact}{4}{subsubsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.4}Kaseya Supply Chain Attack (2021)}{4}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Attack Overview}{4}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Attack Techniques}{4}{subsubsection.1.4.2}%
+\contentsline {section}{\numberline {2}Organizational Defense Strategies and Best Practices}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Preventive Measures}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Technical Protection Measures}{4}{subsubsection.2.1.1}%
+\contentsline {paragraph}{Endpoint Protection}{4}{subsubsection.2.1.1}%
+\contentsline {paragraph}{Network Security}{4}{subsubsection.2.1.1}%
+\contentsline {paragraph}{Email Security}{5}{subsubsection.2.1.1}%
+\contentsline {paragraph}{Vulnerability Management}{5}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Administrative Control Measures}{5}{subsubsection.2.1.2}%
+\contentsline {paragraph}{Access Control}{5}{subsubsection.2.1.2}%
+\contentsline {paragraph}{Data Protection}{5}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Backup and Recovery Strategies}{5}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Backup Best Practices}{5}{subsubsection.2.2.1}%
+\contentsline {paragraph}{3-2-1 Backup Rule}{5}{subsubsection.2.2.1}%
+\contentsline {paragraph}{Backup Isolation}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Recovery Planning}{6}{subsubsection.2.2.2}%
+\contentsline {paragraph}{Recovery Time Objective (RTO) and Recovery Point Objective (RPO)}{6}{subsubsection.2.2.2}%
+\contentsline {paragraph}{Recovery Priorities}{6}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Employee Training and Awareness}{6}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Security Awareness Training}{6}{subsubsection.2.3.1}%
+\contentsline {paragraph}{Training Content}{6}{subsubsection.2.3.1}%
+\contentsline {paragraph}{Training Methods}{7}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Culture Building}{7}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.4}Incident Response and Recovery}{7}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Incident Response Plan}{7}{subsubsection.2.4.1}%
+\contentsline {paragraph}{Response Team Organization}{7}{subsubsection.2.4.1}%
+\contentsline {paragraph}{Response Process}{7}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Communication Strategy}{8}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}Compliance and Legal Considerations}{8}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Data Protection Regulations}{8}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Reporting Obligations}{8}{subsubsection.2.5.2}%
+\contentsline {section}{\numberline {3}Conclusion}{8}{section.3}%
