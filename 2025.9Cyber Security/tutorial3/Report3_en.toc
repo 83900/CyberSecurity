@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Lab Objectives}{2}{section.1}%
+\contentsline {section}{\numberline {2}Lab Background}{2}{section.2}%
+\contentsline {section}{\numberline {3}Lab Steps}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Part 1: Download Windows Sysinternals Suite}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Part 2: Launch TCP/UDP Endpoint Viewer}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Part 3: Explore Running Processes}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Part 4: Explore User-Initiated Processes}{4}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Lab 2: Exploring Processes, Threads, Handles, and Windows Registry}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Part 1: Exploring Processes}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Part 2: Exploring Threads and Handles}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Part 3: Exploring Windows Registry}{8}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Lab Conclusion}{9}{section.5}%

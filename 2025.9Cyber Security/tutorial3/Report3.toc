@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}实验目标}{2}{section.1}%
+\contentsline {section}{\numberline {2}实验背景}{2}{section.2}%
+\contentsline {section}{\numberline {3}实验步骤}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}第一部分：下载Windows Sysinternals Suite}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}第二部分：启动TCP/UDP Endpoint Viewer}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}第三部分：探索运行中的进程}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}第四部分：探索用户启动的进程}{4}{subsection.3.4}%
+\contentsline {section}{\numberline {4}实验二：探索进程、线程、句柄和Windows注册表}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}第一部分：探索进程}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}第二部分：探索线程和句柄}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}第三部分：探索Windows注册表}{8}{subsection.4.3}%
+\contentsline {section}{\numberline {5}实验结论}{9}{section.5}%
