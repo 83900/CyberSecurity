@@ -1,0 +1,91 @@
+% Lab Report: Deploy a Pre-Built Kali Linux VM and Terminal Practice
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{hyperref}
+\usepackage{setspace}
+\setstretch{1.15}
+\title{Lab Report: Deploy a Pre-Built Kali Linux VM and Terminal Practice}
+\author{GuYi}
+\date{\today}
+\graphicspath{{./}}
+\begin{document}
+\maketitle
+\section*{Objectives}
+This lab demonstrates deploying a pre-built Kali Linux virtual machine on VMware Workstation Pro 17 and verifying essential Linux terminal operations. The report only documents tasks that were completed and captured in screenshots.
+\section*{Environment}
+\begin{itemize}
+  \item Host: Windows with VMware Workstation Pro 17 (NAT networking).
+  \item Guest: Kali Linux VM (default credentials used for login).
+  \item Evidence: All figures are captured directly from the VM or host during the lab.
+\end{itemize}
+\section*{Procedure and Evidence}
+\subsection*{1. Verify VMware Tools Status}
+After logging into Kali, the VMware Tools service state was checked to ensure optimized integration (shared clipboard, improved graphics, etc.).\\
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{03-Kali-VMware-Tools-Status.png}
+  \caption{VMware Tools status shown in the Terminal.}
+\end{figure}
+\subsection*{2. Confirm Network Connectivity}
+System network status was verified from the desktop environment, and outbound web access was tested using Firefox to reach the official Kali site.\\
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{04-Kali-Network-Connected.png}
+  \caption{Network indicator showing the VM is connected.}
+\end{figure}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{04-Kali-Firefox-KaliOrg.png}
+  \caption{Firefox successfully loading https://www.kali.org.}
+\end{figure}
+\subsection*{3. Validate Non-Privileged Editing Restrictions}
+Attempting to edit the sudoers configuration without elevated privileges demonstrated the expected permission protection in Kali.\\
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{04-Terminal-Visudo-Permission-Denied.png}
+  \caption{Attempt to open sudoers without privileges resulted in permission denial.}
+\end{figure}
+\subsection*{4. Review sudoers with Administrative Access}
+The sudoers file was opened with administrative privileges to inspect group-based permissions policy.\\
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{04-Terminal-Sudo-Visudo-Sudoers.png}
+  \caption{sudoers file opened with elevated privileges for inspection.}
+\end{figure}
+\subsection*{5. Exit Without Saving Changes}
+The editor was closed without saving to preserve the original configuration according to best practices for observational labs.\\
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{04-Terminal-Exit-Without-Save.png}
+  \caption{Exit prompt confirming the configuration was closed without saving.}
+\end{figure}
+\subsection*{6. Confirm Membership in the sudo Group}
+Group membership for the current user was inspected to confirm administrative capabilities via the sudo group.\\
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{05-Terminal-Confirm-Sudo-Group.png}
+  \caption{Output showing the user is included in the sudo group.}
+\end{figure}
+\subsection*{7. Terminal History and Shortcuts}
+Recent commands history and command recall features were demonstrated to improve productivity during system administration.\\
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{06-Terminal-History-Commands.png}
+  \caption{Recent command history list with numbered entries.}
+\end{figure}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.95\textwidth]{06-Terminal-Bang-Execute.png}
+  \caption{Executing a previous command via bang notation for quick recall.}
+\end{figure}
+\section*{Results and Reflection}
+The VM was successfully operated with verified networking and administrative workflows in the terminal. The evidence confirms: (1) integration with VMware Tools; (2) stable network connectivity; (3) correct permission model preventing unauthorized edits; and (4) effective use of terminal features such as history and recall to accelerate tasks. No configuration changes were persisted in sudoers during observation.
+\section*{References}
+\begin{itemize}
+  \item Kali Linux Documentation: \url{https://www.kali.org/docs/}
+  \item VMware Workstation Pro 17 User Guide.
+\end{itemize}
+\end{document}
